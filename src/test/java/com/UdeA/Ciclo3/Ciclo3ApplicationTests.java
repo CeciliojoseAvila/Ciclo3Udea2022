@@ -8,7 +8,6 @@ class Ciclo3ApplicationTests {
 
 	@Test
 	void contextLoads() {
-
 	}
 
 }
